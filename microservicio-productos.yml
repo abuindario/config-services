@@ -14,7 +14,7 @@ eureka:
   instance:
     instance-id: instanciaProductos1
     hostname: 192.168.1.83
-    non-secure-port: 8090
+    non-secure-port: 8091
 
 server:
-  port: 8090
+  port: 8091
