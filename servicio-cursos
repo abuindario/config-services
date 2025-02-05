@@ -20,3 +20,4 @@ eureka:
       defaultZone: http://192.168.1.83:8761/eureka/ 
   instance:
     instance-id: curso1
+    hostname: 192.168.1.83
