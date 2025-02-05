@@ -1,0 +1,15 @@
+server.port=8081
+
+app.admin.user=user3
+app.admin.password=user3
+
+app.guest.user=user1
+app.guest.password=user1
+
+springdoc.packagesToScan=com.darioabuin.servicioformacion.controller
+springdoc.pathsToMatch=/**
+
+eureka.client.service-url.defaultZone=http://192.168.1.83:8761/eureka
+eureka.client.register-with-eureka=true
+
+eureka.instance.instance-id=formacion1
