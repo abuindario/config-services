@@ -8,7 +8,7 @@ spring:
       ddl-auto: update
  
 server:
-  port: 9000
+  port: 8091
  
 springdoc:
   packagesToScan: com.darioabuin.serviciocursos.controller
